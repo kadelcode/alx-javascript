@@ -4,4 +4,5 @@ Write a script that prints a message depending of the number of arguments passed
 - Otherwise, print “Arguments found”
 - You must use ```console.log(...)``` to print all output
 - You are not allowed to use ```var```
+  
 Reference: [process.argv](https://nodejs.org/api/process.html#process_process_argv)
