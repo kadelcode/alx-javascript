@@ -2,8 +2,8 @@
 
 const { argv } = require('process');
 
-firstArg = argv[2];
+const firstArg = argv[2];
 
-secondArg = argv[3];
+const secondArg = argv[3];
 
 console.log(`${firstArg} is ${secondArg}`);
