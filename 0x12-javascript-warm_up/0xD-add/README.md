@@ -3,7 +3,7 @@ Write a function that returns the addition of 2 integers.
 - The name of the function must be ```add```
 - You are not allowed to use ```var```
 
-[Tip]()
+[Tip](https://51elliot.blogspot.com/2012/01/simple-intro-to-nodejs-module-scope.html)
 ```
 guillaume@ubuntu:~/0x12$ cat 13-main.js
 #!/usr/bin/node
