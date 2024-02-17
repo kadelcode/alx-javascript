@@ -10,4 +10,5 @@ guillaume@ubuntu:~/0x12$ ./100-main.js
 guillaume@ubuntu:~/0x12$
 ```
 Hint: Scope
+
 **This exercise doesn’t pass** ```semistandard``` so don’t worry about it.
