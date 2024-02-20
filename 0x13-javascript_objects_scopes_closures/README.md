@@ -1,7 +1,7 @@
 ## Resources
 **Read or watch**:
-- [JavaScript object basics]()
-- [Object-oriented JavaScript]() (read all examples!)
+- [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+- [Object-oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript) (read all examples!)
 - [Class - ES6]()
 - [super - ES6]()
 - [extends - ES6]()
