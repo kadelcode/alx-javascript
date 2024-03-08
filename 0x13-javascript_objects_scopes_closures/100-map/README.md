@@ -1,3 +1,4 @@
+**(Advanced)**<br>
 Write a script that imports an array and computes a new array.
 - Your script must import ```list``` from the file ```100-data.js```
 - You must use a ```map```. [Tips](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map?v=control)
